@@ -10,3 +10,5 @@ You need to install opencv library and albumentations
 ```bash
 pip install opencv-python albumentations
 ```
+### Albumentations library features:
+![features](https://raw.githubusercontent.com/UtkarshGarg-UG/Deep-Learning-Projects/a51daccca906123b2548c471c1923b21deed8995/Computer-Vision/Loading-Custom-Dataset/parrots.png "features")

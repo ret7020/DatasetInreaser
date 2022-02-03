@@ -1,4 +1,3 @@
-from dataclasses import field
 import albumentations as A
 import cv2
 import os
@@ -15,7 +14,7 @@ transformations = [0, 1]
 1 - Clahe
 2 - RandomRain
 3 - RandomBrightness
-4 - 
+4 - ISONoise
 '''
 #Init alumentation transformer
 trns = []
